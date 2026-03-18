@@ -43,7 +43,7 @@ I combine technical expertise with a passion for creating authentic, competitive
   </a>
   |
   <a href="https://linkedin.com/in/mucahityilmaz">
-    <img src="https://img.shields.io/badge/mucahityilmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/00D4FF" height="28" alt="LinkedIn" />
   </a>
 </div>
 
