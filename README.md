@@ -15,7 +15,7 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-Software engineer turned entrepreneur, and founder of [**yilmaz.games**](https://yilmaz.games).
+Software engineer turned entrepreneur and founder of [**yilmaz.games**](https://yilmaz.games).
 
 <br />
 
@@ -35,15 +35,15 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 <!-- SOCIALS -->
 <div align="center">
   <a href="https://mucahityilmaz.dev">
-    <img src="https://img.shields.io/badge/mucahityilmaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Website" />
+    <img src="https://api.iconify.design/mdi:web.svg?color=%2300D4FF&width=40&height=40" alt="Website" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/mucahityilmaz">
-    <img src="https://img.shields.io/badge/%40mucahityilmaz-000000?style=for-the-badge&logo=x&logoColor=00D4FF" alt="X" />
+    <img src="https://api.iconify.design/simple-icons:x.svg?color=%2300D4FF&width=40&height=40" alt="X" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mucahityilmaz">
-    <img src="https://img.shields.io/badge/mucahityilmaz-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" />
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300D4FF&width=40&height=40" alt="LinkedIn" />
   </a>
 </div>
 
