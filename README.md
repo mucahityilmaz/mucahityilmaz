@@ -1,21 +1,12 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D4FF&height=200&section=header&text=Mucahit%20Yilmaz&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Founder%20%40%20yilmaz.games&descSize=18&descColor=00D4FF&descAlignY=52" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D4FF&height=200&section=header&text=M%C3%BCcahit%20Y%C4%B1lmaz&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Founder%20%40%20yilmaz.games&descSize=18&descColor=00D4FF&descAlignY=52" alt="header" />
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%7C+Game+Producer;Founder+%40+yilmaz.games;Building+competitive+game+experiences" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<!-- YILMAZ.GAMES HIGHLIGHT -->
-<div align="center">
-  <a href="https://yilmaz.games">
-    <img src="https://img.shields.io/badge/yilmaz.games-00D4FF?style=for-the-badge" alt="yilmaz.games" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=Founder+%26+GM+%40+yilmaz.games;Software+Engineer+%7C+Game+Producer;Building+authentic+game+experiences" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,9 +15,19 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-> Software engineer turned entrepreneur, and founder of [**yilmaz.games**](https://yilmaz.games).
-> I combine technical expertise with a passion for creating authentic, competitive game experiences — bringing classic games into the digital era for a global audience.
+Software engineer turned entrepreneur, and founder of [**yilmaz.games**](https://yilmaz.games).
 
+<br />
+
+I combine technical expertise with a passion for creating authentic, competitive game experiences and bringing classic games into the digital era for a global audience.
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahityilmaz&bg_color=000000&color=FFFFFF&line=00D4FF&point=00D4FF&area=true&area_color=00D4FF&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 ---
@@ -36,13 +37,13 @@
   <a href="https://mucahityilmaz.dev">
     <img src="https://img.shields.io/badge/mucahityilmaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Website" />
   </a>
-  &nbsp;
+  |
   <a href="https://x.com/mucahityilmaz">
     <img src="https://img.shields.io/badge/%40mucahityilmaz-000000?style=for-the-badge&logo=x&logoColor=00D4FF" alt="X" />
   </a>
-  &nbsp;
+  |
   <a href="https://linkedin.com/in/mucahityilmaz">
-    <img src="https://img.shields.io/badge/mucahityilmaz-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/mucahityilmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -50,8 +51,6 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mucahityilmaz&show_icons=true&bg_color=000000&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=mucahityilmaz&background=000000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=00D4FF" height="180" alt="GitHub Streak" />
 </div>
 
@@ -59,20 +58,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahityilmaz&layout=compact&bg_color=000000&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&langs_count=8" height="180" alt="Top Languages" />
-</div>
-
----
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mucahityilmaz&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=15" alt="Trophies" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahityilmaz&bg_color=000000&color=FFFFFF&line=00D4FF&point=00D4FF&area=true&area_color=00D4FF&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 ---
