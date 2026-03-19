@@ -35,15 +35,15 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 <!-- SOCIALS -->
 <div align="center">
   <a href="https://mucahityilmaz.dev/?utm_source=p&utm_medium=github&utm_campaign=profile&utm_content=readme">
-    <img src="https://api.iconify.design/mdi:web.svg?color=%2300D4FF&width=40&height=40" alt="Website" />
+    <img src="https://api.iconify.design/mdi:web.svg?color=%2300D4FF&width=32&height=32" alt="Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/mucahityilmaz">
-    <img src="https://api.iconify.design/simple-icons:x.svg?color=%2300D4FF&width=40&height=40" alt="X" />
+    <img src="https://api.iconify.design/simple-icons:x.svg?color=%2300D4FF&width=32&height=32" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mucahityilmaz">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300D4FF&width=40&height=40" alt="LinkedIn" />
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300D4FF&width=32&height=32" alt="LinkedIn" />
   </a>
 </div>
 
