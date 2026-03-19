@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D4FF&height=200&section=header&text=M%C3%BCcahit%20Y%C4%B1lmaz&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Founder%20%40%20yilmaz.games&descSize=18&descColor=00D4FF&descAlignY=52" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:74b9ff&height=200&section=header&text=M%C3%BCcahit%20Y%C4%B1lmaz&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Founder%20%40%20yilmaz.games&descSize=18&descColor=74b9ff&descAlignY=52" alt="header" />
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=Founder+%26+GM+%40+yilmaz.games;Software+Engineer+%7C+Game+Producer;Building+authentic+game+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=74b9ff&center=true&vCenter=true&width=600&height=45&lines=Founder+%26+GM+%40+yilmaz.games;Software+Engineer+%7C+Game+Producer;Building+authentic+game+experiences" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,23 +25,23 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahityilmaz&bg_color=000000&color=FFFFFF&line=00D4FF&point=00D4FF&area=true&area_color=00D4FF&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahityilmaz&bg_color=000000&color=FFFFFF&line=74b9ff&point=74b9ff&area=true&area_color=74b9ff&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 <!-- SOCIALS -->
 <div align="center">
-  <a href="https://mucahityilmaz.dev/?utm_source=p&utm_medium=github&utm_campaign=profile&utm_content=readme" style="color:#00D4FF;text-decoration:none;">mucahityilmaz.dev</a>
+  <a href="https://mucahityilmaz.dev/?utm_source=p&utm_medium=github&utm_campaign=profile&utm_content=readme" style="color:#74b9ff;text-decoration:none;">mucahityilmaz.dev</a>
   &nbsp;|&nbsp;
-  <a href="https://x.com/mucahityilmaz" style="color:#00D4FF;text-decoration:none;">x/mucahityilmaz</a>
+  <a href="https://x.com/mucahityilmaz" style="color:#74b9ff;text-decoration:none;">x/mucahityilmaz</a>
   &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/mucahityilmaz" style="color:#00D4FF;text-decoration:none;">linkedin/mucahityilmaz</a>
+  <a href="https://linkedin.com/in/mucahityilmaz" style="color:#74b9ff;text-decoration:none;">linkedin/mucahityilmaz</a>
 </div>
 
 <!-- FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:000000&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:74b9ff,100:000000&height=120&section=footer" alt="footer" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mucahityilmaz&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mucahityilmaz&color=74b9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
