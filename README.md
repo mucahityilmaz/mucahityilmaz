@@ -19,7 +19,7 @@ Software engineer turned entrepreneur and founder of [**yilmaz.games**](https://
 
 <br />
 
-I combine technical expertise with a passion for creating authentic,<br />competitive game experiences and bringing classic games into the digital era for a global audience.
+I combine technical expertise with a passion for creating authentic, competitive<br />game experiences and bringing classic games into the digital era for a global audience.
 
 </div>
 
