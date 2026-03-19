@@ -43,7 +43,7 @@ I combine technical expertise with a passion for creating authentic, competitive
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mucahityilmaz&color=74b9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  s<br />
+  <br />
   <img src="https://analytics.yilmaz.games/p/ctN8VpXPX" alt="Analytics" />
 </div>
 
