@@ -30,15 +30,11 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 
 <!-- SOCIALS -->
 <div align="center">
-  <a href="https://mucahityilmaz.dev/?utm_source=p&utm_medium=github&utm_campaign=profile&utm_content=readme">
-    mucahityilmaz.dev
-  </a> | 
-  <a href="https://x.com/mucahityilmaz">
-    x/mucahityilmaz
-  </a> | 
-  <a href="https://linkedin.com/in/mucahityilmaz">
-    linkedin/mucahityilmaz
-  </a>
+  <a href="https://mucahityilmaz.dev/?utm_source=p&utm_medium=github&utm_campaign=profile&utm_content=readme" style="color:#00D4FF;text-decoration:none;">mucahityilmaz.dev</a>
+  &nbsp;|&nbsp;
+  <a href="https://x.com/mucahityilmaz" style="color:#00D4FF;text-decoration:none;">x/mucahityilmaz</a>
+  &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/mucahityilmaz" style="color:#00D4FF;text-decoration:none;">linkedin/mucahityilmaz</a>
 </div>
 
 <!-- FOOTER -->
