@@ -23,10 +23,7 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 
 </div>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahityilmaz&bg_color=000000&color=FFFFFF&line=74b9ff&point=74b9ff&area=true&area_color=74b9ff&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
+<br/>
 
 <!-- SOCIALS -->
 <div align="center">
@@ -41,6 +38,8 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:74b9ff,100:000000&height=120&section=footer" alt="footer" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mucahityilmaz&color=74b9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
