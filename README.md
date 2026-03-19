@@ -23,31 +23,23 @@ I combine technical expertise with a passion for creating authentic,<br />compet
 
 </div>
 
----
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahityilmaz&bg_color=000000&color=FFFFFF&line=00D4FF&point=00D4FF&area=true&area_color=00D4FF&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
-
----
 
 <!-- SOCIALS -->
 <div align="center">
   <a href="https://mucahityilmaz.dev/?utm_source=p&utm_medium=github&utm_campaign=profile&utm_content=readme">
     <img src="https://api.iconify.design/mdi:web.svg?color=%2300D4FF&width=32&height=32" alt="Website" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/mucahityilmaz">
     <img src="https://api.iconify.design/simple-icons:x.svg?color=%2300D4FF&width=32&height=32" alt="X" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mucahityilmaz">
     <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300D4FF&width=32&height=32" alt="LinkedIn" />
   </a>
 </div>
-
----
 
 <!-- FOOTER -->
 <div align="center">
