@@ -39,11 +39,3 @@ I combine technical expertise with a passion for creating authentic, competitive
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:74b9ff,100:000000&height=120&section=footer" alt="footer" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mucahityilmaz&color=74b9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br />
-  <img src="https://analytics.yilmaz.games/p/ctN8VpXPX" alt="Analytics" />
-</div>
-
